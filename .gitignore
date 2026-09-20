@@ -4,7 +4,7 @@ out/
 !**/src/test/**/out/
 .kotlin
 .idea/
-FootLibGltfPlugin-MC1.21.1/
+FootLibGltfPlugin-MC1.21.1
 *.iml
 
 ### Eclipse ###
@@ -31,3 +31,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Gradle ###
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
