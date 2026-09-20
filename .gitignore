@@ -35,3 +35,6 @@ bin/
 ### Gradle ###
 .gradle/
 gradle/wrapper/gradle-wrapper.jar
+
+### Publish ###
+.m2/
